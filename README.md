@@ -1,2 +1,3 @@
-# mini-ml-project-cia9
+# Mini Ml Project Cia9
+
 A repository to test GitHub automation for issue management.
